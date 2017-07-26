@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 小驼峰命名规范 -->
+
+
+    <!-- 普通文字 @auther dongyiming -->
+    <dimen name="common_sz_9">9sp</dimen>
+    <dimen name="common_sz_10">10sp</dimen>
+    <dimen name="common_sz_11">11sp</dimen>
+    <dimen name="common_sz_12">12sp</dimen>
+    <dimen name="common_sz_13">13sp</dimen>
+    <dimen name="common_sz_14">14sp</dimen>
+    <dimen name="common_sz_15">15sp</dimen>
+    <dimen name="common_sz_16">16sp</dimen>
+    <dimen name="common_sz_17">17sp</dimen>
+    <dimen name="common_sz_18">18sp</dimen>
+
+    <!-- 普通长度 @auther dongyiming -->
+    <dimen name="common_lh_0">0.5dp</dimen>
+    <dimen name="common_lh_2">2dp</dimen>
+    <dimen name="common_lh_3">3dp</dimen>
+    <dimen name="common_lh_18">18dp</dimen>
+    <dimen name="common_lh_35">35dp</dimen>
+    <dimen name="common_lh_20">20dp</dimen>
+    <dimen name="common_lh_25">25dp</dimen>
+
+    <!-- homepage底部规范-->
+    <dimen name="activity_bottom_height_dimens">45dp</dimen>
+    <dimen name="activity_bottom_paddingTop_dimens">5.7dp</dimen>
+    <dimen name="activity_bottom_paddingBottom_dimens">3dp</dimen>
+    <dimen name="activity_bottom_drawablePadding_dimens">2dp</dimen>
+
+    <!-- homepage顶部规范-->
+    <dimen name="activity_top_height_dimens">50dp</dimen>
+
+    <!-- catlist_item歌单列表-->
+    <dimen name="adapter_item_height">220dp</dimen>
+    <dimen name="adapter_item_img_height">179dp</dimen>
+    <dimen name="adapter_item_user_height">23dp</dimen>
+    <dimen name="adapter_item_user_width">66.6dp</dimen>
+    <dimen name="adapter_item_user_header_padding_left">7dp</dimen>
+    <dimen name="adapter_item_user_padding">-288dp</dimen>
+    <dimen name="adapter_item_desc_magintop">9dp</dimen>
+    <dimen name="adapter_item_desc_maginleft">5dp</dimen>
+    <dimen name="adapter_item_desc_maginright">8dp</dimen>
+    <dimen name="adapter_item_play_maginright">7dp</dimen>
+    <dimen name="adapter_item_play_paddingright">3dp</dimen>
+    <dimen name="adapter_item_desc_height">41dp</dimen>
+
+    <!-- catlist header-->
+    <dimen name="header_top_height">140dp</dimen>
+    <dimen name="header_top_img_height">99dp</dimen>
+    <dimen name="header_top_img_magin_left">10dp</dimen>
+    <dimen name="header_top_img_magin_top">26dp</dimen>
+    <dimen name="header_top_rlayout_listname_height">30dp</dimen>
+    <dimen name="header_top_rlayout_listname_magin_left">11.6dp</dimen>
+    <dimen name="header_top_img_name_magin_top">6.7dp</dimen>
+    <dimen name="header_top_txtname_magin_left">6dp</dimen>
+    <dimen name="header_top_txtname_magin_top">7dp</dimen>
+    <dimen name="header_top_arraws_magin_top">3dp</dimen>
+    <dimen name="header_top_txtdesc_magin_top">15dp</dimen>
+    <dimen name="header_top_header_desc_magin_top">6dp</dimen>
+    <dimen name="header_bottom_height">61.6dp</dimen>
+    <dimen name="header_bottom_name_magin_left">10dp</dimen>
+    <dimen name="header_bottom_txtmenu_magin_left">15dp</dimen>
+    <dimen name="header_bottom_arraws_magin_left">4dp</dimen>
+    <dimen name="header_bottom_title_height">22dp</dimen>
+    <dimen name="header_bottom_title3_magin_right">5dp</dimen>
+    <dimen name="header_bottom_title2_magin_right">10dp</dimen>
+
+    <!--recommend page-->
+    <dimen name="dimens_recommend_image_magin_top">15dp</dimen>
+    <dimen name="dimens_recommend_textview_magin_top">7dp</dimen>
+    <dimen name="dimens_recommend_image_width">52dp</dimen>
+    <dimen name="dimens_splitline_height">0.5dp</dimen>
+    <dimen name="dimens_recommend_controller_height">92dp</dimen>
+    <dimen name="dimens_recommend_textview_magintop">20dp</dimen>
+    <dimen name="dimens_recommend_controller_magintop">10dp</dimen>
+    <dimen name="dimens_recommend_controller_radius">20dp</dimen>
+
+    <!--recommend sort page-->
+    <dimen name="dimens_recommend_notice_height">40dp</dimen>
+    <dimen name="dimens_recommend_notice_maginleft">10dp</dimen>
+    <dimen name="dimens_recommend_notice_txt_maginleft">6dp</dimen>
+    <dimen name="dimens_recommend_sort_item_maginleft">8dp</dimen>
+    <dimen name="dimens_recommend_sort_item_height">55dp</dimen>
+    <dimen name="dimens_recommend_sort_item_drag_width">46dp</dimen>
+
+    <!-- latest music-->
+    <dimen name="dimens_latest_item_desc_height">36.7dp</dimen>
+    <dimen name="dimens_latest_item_img_height">120dp</dimen>
+    <dimen name="dimens_item_title_maginleft">9dp</dimen>
+    <dimen name="dimens_item_arrors_maginleft">5dp</dimen>
+    <dimen name="dimens_item_title_height">54dp</dimen>
+
+    <!-- perfect music-->
+    <dimen name="dimens_perfect_item_height">80dp</dimen>
+    <dimen name="dimens_perfect_item_content_height">62dp</dimen>
+    <dimen name="dimens_perfect_item_content_width">207.7dp</dimen>
+    <dimen name="dimens_perfect_item_content_maginleft">10dp</dimen>
+    <dimen name="dimens_perfect_item_image_width">119dp</dimen>
+    <dimen name="dimens_perfect_item_title_width">27dp</dimen>
+    <dimen name="dimens_perfect_item_title_height">14dp</dimen>
+    <dimen name="dimens_perfect_item_title_magintop">4dp</dimen>
+    <dimen name="dimens_perfect_item_title_maginright">5dp</dimen>
+
+
+    <!-- common item decoration-->
+    <dimen name="dimens_common_decoration_bottomdividerheight">18.7dp</dimen>
+    <dimen name="dimens_common_decoration_leftdividerwidth">3dp</dimen>
+
+    <!--toolbar homepage-->
+    <dimen name="dimens_toolbar_height">40dp</dimen>
+    <dimen name="dimens_toolbar_lefticon_maginleft">10dp</dimen>
+    <dimen name="dimens_toolbar_lefticon_maginright">10dp</dimen>
+    <dimen name="dimens_toolbar_search_height">25dp</dimen>
+    <dimen name="dimens_toolbar_search_txt_maginleft">5dp</dimen>
+    <dimen name="dimens_toolbar_search_img_maginleft">37dp</dimen>
+
+</resources>

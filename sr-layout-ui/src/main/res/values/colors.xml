@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_bg_top_red">#d33a31</color>
+    <color name="color_bg_top_white">#feffff</color>
+    <color name="color_bg_top_black">#000000</color>
+    <color name="color_padding_chatlist">#f2f4f5</color>
+    <color name="color_bg_white">#ffffff</color>
+    <color name="color_chatlist_item_desc">#303131</color>
+    <color name="color_chatlist_header_title">#616262</color>
+    <color name="color_chatlist_header_desc">#bbb4aa</color>
+    <color name="color_rollpager_hint_bg">#d64b45</color>
+    <color name="color_rollpager_hint_normal_bg">#f1f3e7</color>
+    <color name="color_tablayout_textcolor">#666666</color>
+    <color name="color_splitlint_bg">#dadcdd</color>
+    <color name="color_itemcontroller">#797a7b</color>
+    <color name="color_gray_text">#919293</color>
+    <color name="color_bg_homepage_bottom">#202020</color>
+</resources>

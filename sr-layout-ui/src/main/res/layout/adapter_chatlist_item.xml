@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:id="@+id/rl_top"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adapter_item_img_height">
+
+        <ImageView
+            android:id="@+id/img_chatlist_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/img_chatlist_item_default" />
+
+        <TextView
+            android:id="@+id/txt_playcount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="@dimen/adapter_item_play_maginright"
+            android:layout_marginTop="@dimen/adapter_item_desc_maginleft"
+            android:textColor="@color/color_bg_white"
+            android:textSize="@dimen/common_sz_9" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/txt_playcount"
+            android:layout_marginRight="@dimen/adapter_item_play_paddingright"
+            android:layout_toLeftOf="@id/txt_playcount"
+            android:src="@drawable/img_chatlist_item_playcount" />
+
+        <Button
+            android:id="@+id/btn_user"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/adapter_item_user_height"
+            android:layout_alignBottom="@id/img_chatlist_item"
+            android:layout_alignParentLeft="true"
+            android:drawableLeft="@drawable/img_chatlist_user"
+            android:padding="@dimen/adapter_item_user_padding"
+            android:paddingTop="@dimen/common_lh_2"
+            android:textColor="@color/color_bg_white"
+            android:background="@null"
+            android:textSize="@dimen/common_sz_9" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/adapter_item_desc_height"
+        android:layout_below="@id/rl_top">
+
+        <TextView
+            android:id="@+id/txt_item_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/adapter_item_desc_maginleft"
+            android:layout_marginTop="@dimen/adapter_item_desc_magintop"
+            android:textColor="@color/color_chatlist_item_desc"
+            android:textSize="@dimen/common_sz_11" />
+    </RelativeLayout>
+</LinearLayout>

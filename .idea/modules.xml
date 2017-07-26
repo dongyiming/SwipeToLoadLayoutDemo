@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayoutDemo.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayoutDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-manage-biz/http-manage-biz.iml" filepath="$PROJECT_DIR$/http-manage-biz/http-manage-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadmore-layout-ui/loadmore-layout-ui.iml" filepath="$PROJECT_DIR$/loadmore-layout-ui/loadmore-layout-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sr-layout-ui/sr-layout-ui.iml" filepath="$PROJECT_DIR$/sr-layout-ui/sr-layout-ui.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SR-LAYOUT-UI</string>
+    <string name="catlist_header_string">精品歌单</string>
+    <string name="catlist_header_type_desc_string">精品MV--MV里歌手一人分饰多角，精彩演绎</string>
+    <string name="catlist_header_desc_string">城会玩!这些歌手竟然一个个都“精分”了？</string>
+    <string name="catlist_header_bottom_name_string">全部歌单</string>
+    <string name="catlist_header_bottom_title1_string">摇滚</string>
+    <string name="catlist_header_bottom_title2_string">影视原声</string>
+    <string name="catlist_header_bottom_title3_string">华语</string>
+    <string name="recommend_itemcontroller_toolbar_title_str">调整栏目顺序</string>
+    <string name="toolbar_search_str">搜索音乐、歌词、电台</string>
+    <string name="string_loading">努力加载中...</string>
+    <string name="string_drop">松手加载</string>
+    <string name="string_pull">上拉加载</string>
+</resources>
